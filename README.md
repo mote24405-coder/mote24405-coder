@@ -39,6 +39,7 @@
 
 - **プログラミング言語:** Python、SQL
 - **機械学習・深層学習:** PyTorch、scikit-learn、Hugging Face Transformers
+- **コーディングエージェント:** Claude Code、OpenAI Codex、GitHub Copilot
 - **データ分析・データ基盤:** dbt、Snowflake、Google BigQuery
 - **バックエンド・データベース:** FastAPI、PostgreSQL、SQLAlchemy
 - **フロントエンド:** HTMX、Tailwind CSS

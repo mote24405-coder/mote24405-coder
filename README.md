@@ -11,6 +11,3 @@ Python / FastAPIを中心に、情報整理・検索・推薦機能を持つWeb�
 - 技術：Python、FastAPI、PostgreSQL、SQLAlchemy、HTMX、Tailwind CSS
 - [コードを見る](https://github.com/mote24405-coder/shiga-lab-recommend)
 
-## 関心のある仕事
-
-ここに応募したい職種と、取り組みたい課題を1〜2文で書く。
